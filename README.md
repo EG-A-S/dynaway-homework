@@ -18,7 +18,7 @@ You might be familiar with Angular but not Ionic - and this is completely fine. 
 ## Submission instructions
 - **DO NOT** publish your project on a public repository
 - **DO NOT** make a fork of the project, since that would also be public
-- clone this repo to a private repo on your account, then invite us to it
+- clone this repository to a private one on your GitHub account, then invite us to it (amiam@dynaway.com; kacan@dynaway.com; mapla@dynaway.com; rujep@dynaway.com; smart@dynaway.com)
    - you can do that under (your repository)/settings/collaborators and teams/add people
 
 ## Task #1 🐞
