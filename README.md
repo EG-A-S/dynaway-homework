@@ -16,11 +16,10 @@ You might be familiar with Angular but not Ionic - and this is completely fine. 
 5. Run `npm run start`. Your app should be now up and running on [localhost:4200](http://localhost:4200)!
 
 ## Submission instructions
-- **DO NOT** publish your project on a public repository.
-- - Please send us a `.zip` file of your entire project directory including the `.git` folder
-- **Remember to include the .git folder** at the root of the project so that we can see the commits you've made
-   - Ensure you create the ZIP file manually and do not use the "Download ZIP" option from hosting services (like GitHub) as it does not include the `.git` directory.
-- To significantly reduce the size of the file, remove the gitignore-d files (like `node_modules` and `.angular`) folders.
+- **DO NOT** publish your project on a public repository
+- **DO NOT** make a fork of the project, since that would also be public
+- clone this repository to a private one on your GitHub account, then invite us to it (amiam@dynaway.com; kacan@dynaway.com; mapla@dynaway.com; rujep@dynaway.com; smart@dynaway.com)
+   - you can do that under (your repository)/settings/collaborators and teams/add people
 
 ## Task #1 🐞
 You've probably noticed that the app is running, yet we can't see any content 😕. It might have happened that a bug sneaked into our code. Can you find it and fix it? 
